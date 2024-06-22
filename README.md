@@ -2,6 +2,11 @@
 
 A tasks management system using MERN.
 
+![Screenshot (1016)](https://github.com/asthanegi14/MERN_Task_Management/assets/93486108/5da8d453-5fdb-4544-acf2-e51d986b5c26)
+
+![Screenshot (1018)](https://github.com/asthanegi14/MERN_Task_Management/assets/93486108/fd41d56b-1965-4301-b42a-0e8cf8aa85b0)
+
+
 ## Table of Contents
 
 - [Features](#features)
